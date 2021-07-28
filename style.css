@@ -52,8 +52,9 @@ footer{
 .tm{
     text-align: center;
     font-weight: 800;
+    font-family: cursive;
 }
-.col-md-2 li{
+.col-md-3 li{
     list-style: none;
 }
 section{
@@ -63,4 +64,7 @@ section{
 }
 section p{
     text-align: center;
+}
+.abc{
+    margin: 15px;
 }
